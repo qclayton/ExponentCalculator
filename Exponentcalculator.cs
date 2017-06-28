@@ -30,17 +30,16 @@ public class Exponentcalculator
     public int userNameInput()
     {
 
-
-
     }
     //Sarah said quentin is stupid
     public void returnName()
     {
-
-
+        
     }
 
+
     public int calculate()
+
     {
 
 
