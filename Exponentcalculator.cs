@@ -1,50 +1,52 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
-public class Exponentcalculator
+namespace ExponentCalculator
 {
-	public Exponentcalculator()
-	{
-
-
-
-	}
-
-    public void main ()
+    class Program
     {
+        static void Main(string[] args)
+        {
 
-        userNameInput();
-        userNumericalInput();
-        userNumericalInput();
-        calculate();
-        returnName();
+            Console.WriteLine("Hello world");
+            Console.ReadLine();
+
+            userNameInput(); //Quentin
+            +numBase = userNumericalInput("base number.");//Trevor
+            +numExpon = userNumericalInput("exponent number.");
+            +calculate();//Tyler
+            +returnName(); //Sarah
+        }
+
+        public void userNumericalInput()
+        {
+
+
+
+        }
+
+        public void userNameInput()
+        {
+
+
+        }
+
+        public void returnName()
+        {
+
+
+        }
+
+        public void calculate()
+        {
+
+
+        }
+
 
 
     }
-
-    public int userNumericalInput()
-    {
-
-
-    }
-
-    public int userNameInput()
-    {
-
-    }
-    //Sarah said quentin is stupid
-    public void returnName()
-    {
-        
-    }
-
-
-    public int calculate()
-
-    {
-
-
-
-    }
-
-
 }
