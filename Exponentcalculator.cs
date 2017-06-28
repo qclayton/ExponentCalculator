@@ -34,12 +34,6 @@ public class Exponentcalculator
 
     }
 
-    public void returnName()
-    {
-
-
-    }
-
     public int calculate()
     {
 
@@ -47,5 +41,10 @@ public class Exponentcalculator
 
     }
 
+    public void returnName()
+    {
+
+
+    }
 
 }
