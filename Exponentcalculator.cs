@@ -12,6 +12,11 @@ public class Exponentcalculator
     public void main ()
     {
 
+        userNameInput();
+        userNumericalInput();
+        userNumericalInput();
+        calculate();
+        returnName();
 
 
     }
