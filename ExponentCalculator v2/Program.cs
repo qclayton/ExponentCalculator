@@ -67,19 +67,17 @@ namespace ExponentCalculator_v2
 
         }
 
-        public static void returnName()
-        {
-
-
-        }
-
         public static void calculate()
         {
 
 
         }
 
+        public static void returnName()
+        {
 
+
+        }
 
     }
 }
