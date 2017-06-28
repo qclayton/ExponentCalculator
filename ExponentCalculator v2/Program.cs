@@ -13,11 +13,9 @@ namespace ExponentCalculator_v2
         static void Main(string[] args)
         {
 
-            Console.WriteLine("Hello world");
-            Console.ReadLine();
 
-            //userNameInput(); //Quentin
-            userNumericalInput("base number.");//Trevor
+            userNameInput(); //Quentin
+            //userNumericalInput("base number.");//Trevor
             //userNumericalInput("exponent number.");
             //calculate();//Tyler
             //returnName(); //Sarah
@@ -27,15 +25,20 @@ namespace ExponentCalculator_v2
         {
             int n = 0;
 
-            Console.WriteLine("Please enter the " + s);
-            Console.ReadLine();
+            console.writeline("please enter the " + s);
+            console.readline();
 
             return n;
         }
 
         public static void userNameInput()
         {
-
+            string userName;
+            bool vaild = input.All(Char.IsLetter);
+            Console.WriteLine("Enter you Name Here!");
+            userName = Console.ReadLine();
+            Console.WriteLine("Welcome " + userName);
+            Console.ReadLine();
 
         }
 

@@ -10,3 +10,9 @@ C:\Users\Trevor\Documents\GitHub\ExponentCalculator\ExponentCalculator v2\obj\De
 C:\Users\Trevor\Documents\GitHub\ExponentCalculator\ExponentCalculator v2\bin\Debug\ExponentCalculator v2.exe
 C:\Users\Trevor\Documents\GitHub\ExponentCalculator\ExponentCalculator v2\bin\Debug\ExponentCalculator v2.pdb
 C:\Users\Trevor\Documents\GitHub\ExponentCalculator\ExponentCalculator v2\obj\Debug\ExponentCalculator v2.csprojResolveAssemblyReference.cache
+C:\Users\Quentin Clayton\Documents\Class work\Testing and Quality Assurance\ExponentCalculator\ExponentCalculator v2\bin\Debug\ExponentCalculator v2.exe.config
+C:\Users\Quentin Clayton\Documents\Class work\Testing and Quality Assurance\ExponentCalculator\ExponentCalculator v2\bin\Debug\ExponentCalculator v2.exe
+C:\Users\Quentin Clayton\Documents\Class work\Testing and Quality Assurance\ExponentCalculator\ExponentCalculator v2\bin\Debug\ExponentCalculator v2.pdb
+C:\Users\Quentin Clayton\Documents\Class work\Testing and Quality Assurance\ExponentCalculator\ExponentCalculator v2\obj\Debug\ExponentCalculator v2.csprojResolveAssemblyReference.cache
+C:\Users\Quentin Clayton\Documents\Class work\Testing and Quality Assurance\ExponentCalculator\ExponentCalculator v2\obj\Debug\ExponentCalculator v2.exe
+C:\Users\Quentin Clayton\Documents\Class work\Testing and Quality Assurance\ExponentCalculator\ExponentCalculator v2\obj\Debug\ExponentCalculator v2.pdb
