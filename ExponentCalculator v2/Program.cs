@@ -15,7 +15,8 @@ namespace ExponentCalculator_v2
 
 
             userNameInput(); //Quentin
-            //userNumericalInput("base number.");//Trevor
+            numBase = userNumericalInput("base", 100);
+            numExpon = userNumericalInput("exponent", 10);
             //userNumericalInput("exponent number.");
             //calculate();//Tyler
             //returnName(); //Sarah
