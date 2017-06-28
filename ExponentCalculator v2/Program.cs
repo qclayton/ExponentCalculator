@@ -21,14 +21,38 @@ namespace ExponentCalculator_v2
             //returnName(); //Sarah
         }
 
-        public static int userNumericalInput(string s)
+        public static int userNumericalInput(string s, int b)
         {
-            int n = 0;
 
-            console.writeline("please enter the " + s);
-            console.readline();
+            int x = 0;
 
-            return n;
+            bool valid = true;
+
+            Console.WriteLine("Please enter the " + s + " number. It must be " + b + " or less.");
+            var i = Console.ReadLine();
+
+            while (valid)
+            {
+
+                if (!int.TryParse(i, out x) || x > b)
+                {
+
+                    Console.WriteLine(i + " is invalid. Re-enter.");
+                    i = Console.ReadLine();
+
+                }
+
+                else
+                {
+
+                    valid = false;
+
+                }
+
+            }
+
+            return x;
+
         }
 
         public static void userNameInput()
