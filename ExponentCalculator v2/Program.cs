@@ -8,43 +8,48 @@ namespace ExponentCalculator_v2
 {
     class Program
     {
+        static int numBase = 0;
+        static int numExpon = 0;
         static void Main(string[] args)
         {
 
             Console.WriteLine("Hello world");
             Console.ReadLine();
 
-            //userNameInput(); //Quentin
-            //numBase = userNumericalInput("base number.");//Trevor
-           //numExpon = userNumericalInput("exponent number.");
-            //calculate();//Tyler
-            //returnName(); //Sarah
+            userNameInput(); //Quentin
+            numBase = userNumericalInput("base number.");//Trevor
+            numExpon = userNumericalInput("exponent number.");
+            calculate();//Tyler
+            returnName(); //Sarah
         }
 
-        public void userNumericalInput()
+        public static int userNumericalInput(string s)
         {
+            int n = 0;
 
 
-
+            return n;
         }
 
-        public void userNameInput()
-        {
-
-
-        }
-
-        public void calculate()
+        public static void userNameInput()
         {
 
 
         }
 
-        public void returnName()
+        public static void returnName()
         {
 
 
         }
+
+        public static void calculate()
+        {
+
+
+        }
+
+
 
     }
 }
