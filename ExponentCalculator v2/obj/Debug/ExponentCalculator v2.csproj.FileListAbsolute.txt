@@ -1,0 +1,6 @@
+c:\users\quentin clayton\documents\visual studio 2017\Projects\ExponentCalculator v2\ExponentCalculator v2\bin\Debug\ExponentCalculator v2.exe.config
+c:\users\quentin clayton\documents\visual studio 2017\Projects\ExponentCalculator v2\ExponentCalculator v2\bin\Debug\ExponentCalculator v2.exe
+c:\users\quentin clayton\documents\visual studio 2017\Projects\ExponentCalculator v2\ExponentCalculator v2\bin\Debug\ExponentCalculator v2.pdb
+c:\users\quentin clayton\documents\visual studio 2017\Projects\ExponentCalculator v2\ExponentCalculator v2\obj\Debug\ExponentCalculator v2.csprojResolveAssemblyReference.cache
+c:\users\quentin clayton\documents\visual studio 2017\Projects\ExponentCalculator v2\ExponentCalculator v2\obj\Debug\ExponentCalculator v2.exe
+c:\users\quentin clayton\documents\visual studio 2017\Projects\ExponentCalculator v2\ExponentCalculator v2\obj\Debug\ExponentCalculator v2.pdb

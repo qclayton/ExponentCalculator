@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ExponentCalculator
+namespace ExponentCalculator_v2
 {
     class Program
     {
@@ -14,11 +14,11 @@ namespace ExponentCalculator
             Console.WriteLine("Hello world");
             Console.ReadLine();
 
-            userNameInput(); //Quentin
-            +numBase = userNumericalInput("base number.");//Trevor
-            +numExpon = userNumericalInput("exponent number.");
-            +calculate();//Tyler
-            +returnName(); //Sarah
+            //userNameInput(); //Quentin
+            //numBase = userNumericalInput("base number.");//Trevor
+           //numExpon = userNumericalInput("exponent number.");
+            //calculate();//Tyler
+            //returnName(); //Sarah
         }
 
         public void userNumericalInput()
