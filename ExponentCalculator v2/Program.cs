@@ -71,7 +71,7 @@ namespace ExponentCalculator_v2
         public static void calculate()
         {
             answer = Math.Pow(numBase, numExpon);
-            Console.Read();
+            Console.WriteLine(answer);
 
         }
 
