@@ -10,6 +10,7 @@ namespace ExponentCalculator_v2
     {
         static int numBase = 0;
         static int numExpon = 0;
+        static double answer;
         static void Main(string[] args)
         {
 
@@ -69,7 +70,7 @@ namespace ExponentCalculator_v2
 
         public static void calculate()
         {
-            double answer = Math.Pow(numBase, numExpon);
+            answer = Math.Pow(numBase, numExpon);
             Console.Read();
 
         }
