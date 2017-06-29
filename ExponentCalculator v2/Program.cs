@@ -57,16 +57,20 @@ namespace ExponentCalculator_v2
 
         }
 
-        public static void userNameInput()
+        static void userNameInput()
         {
-            string userName;
-            bool vaild = input.All(Char.IsLetter);
-            Console.WriteLine("Enter you Name Here!");
-            userName = Console.ReadLine();
-            Console.WriteLine("Welcome " + userName);
-            Console.ReadLine();
+            Console.WriteLine("Enter Your Name Here!");
+            string userName = Console.ReadLine();
+            bool result = userName.All(Char.IsLetter);
+            if (result){
+                Console.WriteLine("Welcome " + userName);
+                userNumericalInput("first", 10);
+            }else
+	        {
+             Console.WriteLine("Invaild Name. Please try again");
+	        }
 
-      }
+        }
 
         public static void calculate()
         {
