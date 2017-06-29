@@ -77,7 +77,13 @@ namespace ExponentCalculator_v2
 
         public static void returnName()
         {
-
+            int i = 0;
+            
+            while(i < answer)
+            {
+                Console.WriteLine();
+                i++;
+            }
 
         }
 
