@@ -64,7 +64,6 @@ namespace ExponentCalculator_v2
             bool result = userName.All(Char.IsLetter);
             if (result){
                 Console.WriteLine("Welcome " + userName);
-                userNumericalInput("first", 10);
             }else
 	        {
              Console.WriteLine("Invaild Name. Please try again");
