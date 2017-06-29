@@ -19,7 +19,7 @@ namespace ExponentCalculator_v2
             numBase = userNumericalInput("base", 100);
             numExpon = userNumericalInput("exponent", 10);
             //userNumericalInput("exponent number.");
-            //calculate();//Tyler
+            calculate();//Tyler
             //returnName(); //Sarah
         }
 
@@ -66,12 +66,13 @@ namespace ExponentCalculator_v2
             Console.WriteLine("Welcome " + userName);
             Console.ReadLine();
 
-        }
+      }
 
         public static void calculate()
         {
             answer = Math.Pow(numBase, numExpon);
-            Console.WriteLine(answer);
+            Console.WriteLine("The answer is: " + answer);
+            Console.Read();
 
         }
 
