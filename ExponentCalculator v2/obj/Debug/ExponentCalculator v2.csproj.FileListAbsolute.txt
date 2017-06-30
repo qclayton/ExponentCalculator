@@ -16,3 +16,9 @@ C:\Users\Quentin Clayton\Documents\Class work\Testing and Quality Assurance\Expo
 C:\Users\Quentin Clayton\Documents\Class work\Testing and Quality Assurance\ExponentCalculator\ExponentCalculator v2\obj\Debug\ExponentCalculator v2.csprojResolveAssemblyReference.cache
 C:\Users\Quentin Clayton\Documents\Class work\Testing and Quality Assurance\ExponentCalculator\ExponentCalculator v2\obj\Debug\ExponentCalculator v2.exe
 C:\Users\Quentin Clayton\Documents\Class work\Testing and Quality Assurance\ExponentCalculator\ExponentCalculator v2\obj\Debug\ExponentCalculator v2.pdb
+C:\Users\Sarah\Documents\GitHub\ExponentCalculator\ExponentCalculator v2\obj\Debug\ExponentCalculator v2.csprojResolveAssemblyReference.cache
+C:\Users\Sarah\Documents\GitHub\ExponentCalculator\ExponentCalculator v2\obj\Debug\ExponentCalculator v2.exe
+C:\Users\Sarah\Documents\GitHub\ExponentCalculator\ExponentCalculator v2\obj\Debug\ExponentCalculator v2.pdb
+C:\Users\Sarah\Documents\GitHub\ExponentCalculator\ExponentCalculator v2\bin\Debug\ExponentCalculator v2.exe.config
+C:\Users\Sarah\Documents\GitHub\ExponentCalculator\ExponentCalculator v2\bin\Debug\ExponentCalculator v2.exe
+C:\Users\Sarah\Documents\GitHub\ExponentCalculator\ExponentCalculator v2\bin\Debug\ExponentCalculator v2.pdb

@@ -11,6 +11,7 @@ namespace ExponentCalculator_v2
         static int numBase = 0;
         static int numExpon = 0;
         static double answer;
+        static string userName;
         static void Main(string[] args)
         {
 
@@ -20,7 +21,7 @@ namespace ExponentCalculator_v2
             numExpon = userNumericalInput("exponent", 10);
             //userNumericalInput("exponent number.");
             calculate();//Tyler
-            //returnName(); //Sarah
+            returnName(); //Sarah
         }
 
         public static int userNumericalInput(string s, int b)
@@ -60,7 +61,7 @@ namespace ExponentCalculator_v2
         static void userNameInput()
         {
             Console.WriteLine("Enter Your Name Here!");
-            string userName = Console.ReadLine();
+            userName = Console.ReadLine();
             bool result = userName.All(Char.IsLetter);
             if (result){
                 Console.WriteLine("Welcome " + userName);
@@ -74,8 +75,6 @@ namespace ExponentCalculator_v2
         public static void calculate()
         {
             answer = Math.Pow(numBase, numExpon);
-            Console.WriteLine("The answer is: " + answer);
-            Console.Read();
 
         }
 
@@ -83,11 +82,16 @@ namespace ExponentCalculator_v2
         {
             int i = 0;
             
-            while(i < answer)
+            while(i < answer && i < 50000)
             {
-                Console.WriteLine();
+                Console.Write(userName + " ");
                 i++;
+
             }
+
+            Console.WriteLine(" ");
+            Console.WriteLine("The answer is: " + answer);
+            Console.Read();
 
         }
 
