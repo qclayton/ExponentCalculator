@@ -37,7 +37,7 @@ class Program
         while (valid)
         {
 
-            if (!int.TryParse(i, out x) || x > b)
+            if (!int.TryParse(i, out x) || x > b || x < 0)
             {
 
                 Console.WriteLine(i + " is invalid. Re-enter.");
